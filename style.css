@@ -1,0 +1,21 @@
+#pink{
+    background-color: pink;
+}
+
+#yellow{
+    background-color: palegoldenrod;
+}
+
+#purple{
+    background-color: plum;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+h1 {
+   color: white; 
+}
